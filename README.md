@@ -23,3 +23,23 @@ Shows how to swap two numbers using a third variable and also without a third va
 ## Run
 
 ### Using g++
+
+## Folder structure
+cpp-basics/
+│
+├── README.md
+│
+└── src/
+    ├── hello_world.cpp
+    ├── variables.cpp
+    ├── calculator.cpp
+    └── swap_numbers.cpp
+
+
+---
+
+## Author
+Maheen Bilal Khan  
+BS Software Engineering  
+
+
